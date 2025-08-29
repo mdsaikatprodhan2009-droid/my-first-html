@@ -1,0 +1,16 @@
+input {
+  background-color: aqua;
+}
+h3 {
+  color: #f32020;
+  width: 400px;
+}
+li {
+  background-color: aqua;
+  width: 50%;
+}
+select {
+  background-color: #f32020;
+  font-style: oblique;
+  font-family: "Courier New", Courier, monospace;
+}
